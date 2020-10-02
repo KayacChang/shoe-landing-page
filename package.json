@@ -10,6 +10,6 @@
     "sass": "^1.26.11"
   },
   "scripts": {
-    "start": "parcel src/index.html"
+    "start": "parcel index.html"
   }
 }
